@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8"/>
+    <style>
+      body {
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+        color: #333333;
+        margin-top: 90px;
+      }
+      .container,
+      .navbar-static-top .container,
+      .navbar-fixed-top .container,
+      .navbar-fixed-bottom .container {
+        width: calc(100% - 20px);
+        margin: 0 auto;
+      }
+      h1 {
+        margin: 10px 0;
+        font-family: inherit;
+        font-weight: bold;
+        line-height: 40px;
+        font-size: 38.5px;
+        color: inherit;
+      }
+      .header {
+        position: fixed;
+        top: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #ddd;
+        z-index: 10;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+      }
+      .header i {
+        font-size: 170px;
+        vertical-align: middle;
+        line-height: 60px;
+      }
+      .header span {
+        font-size: 80%;
+        color: #999999;
+      }
+      .footer {
+        color: #999999;
+        font-size: 12px;
+        text-align: center;
+        margin-top: 20px;
+      }
+      .footer a {
+        color: #999999;
+        text-decoration: underline;
+      }
+      .row {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+      }
+      .row h1, .row h5 {
+        grid-column-start: 1;
+        grid-column-end: 6;
+        text-align: center;
+      }
+      details {
+        grid-column-start: 1;
+        grid-column-end: 6;
+      }
+      .icon-container {
+        font-size: 20px;
+        line-height: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: .5em 0;
+        border-radius: 4px;
+        background-color: white;
+        transition: color .5s, background-color .5s;
+      }
+      .icon-container:hover {
+        background-color: black;
+        color: white;
+      }
+      @font-face {
+        font-family: 'transportation-font';
+        src: url('dist/transportation-font.eot?89476254');
+        src: url('dist/transportation-font.eot?89476254#iefix') format('embedded-opentype'),
+              url('dist/transportation-font.woff?89476254') format('woff'),
+              url('dist/transportation-font.ttf?89476254') format('truetype'),
+              url('dist/transportation-font.svg?89476254#transportation-font') format('svg');
+        font-weight: normal;
+        font-style: normal;
+      }
+
+      .icon {
+        font-family: "transportation-font";
+        display: inline-block;
+        text-align: center;
+        line-height: 1em;
+        font-size: 60px;
+      }
+      .i-name {
+        text-align: center;
+      }
+      .demo .icon {
+        margin-right: -1px;
+        font-size: 50px;
+      }
+
+      @media screen and (max-width: 800px) {
+        .row {
+          grid-template-columns: 50% 50%;
+        }
+        details, .row h1, .row h5 {
+          grid-column-end: 3;
+        }
+      }
+    </style>
+    <link rel="stylesheet" href="dist/transportation-font.css" />
+  </head>
+  <body>
+    <div class="container" id="icons">
+      <div class="row">
+        <h1>Truck</h1>
+        <div class="icon-container"><i class="icon icon-truck-front"></i> <span class="i-name">icon-truck-front</span></div>
+
+        <div class="icon-container"><i class="icon icon-truck-end-6x2"></i> <span class="i-name">icon-truck-end-6x2</span></div>
+        <div class="icon-container"><i class="icon icon-truck-end-6x4"></i> <span class="i-name">icon-truck-end-6x4</span></div>
+      </div>
+      <div class="row">
+        <h1>Trailer</h1>
+        <div class="icon-container"><i class="icon icon-trailer-start"></i> <span class="i-name">icon-trailer-start</span></div>
+
+        <div class="icon-container"><i class="icon icon-truck-end-6x2-trailer"></i> <span class="i-name">icon-truck-end-6x2-trailer</span></div>
+        <div class="icon-container"><i class="icon icon-truck-end-6x4-trailer"></i> <span class="i-name">icon-truck-end-6x4-trailer</span></div>
+
+        <div class="icon-container"><i class="icon icon-trailer-mid-big"></i> <span class="i-name">icon-trailer-mid-big</span></div>
+        <div class="icon-container"><i class="icon icon-trailer-mid"></i> <span class="i-name">icon-trailer-mid</span></div>
+        
+        <div class="icon-container"><i class="icon icon-trailer-end-2"></i> <span class="i-name">icon-trailer-end-2</span></div>
+        <div class="icon-container"><i class="icon icon-trailer-end-2-small"></i> <span class="i-name">icon-trailer-end-2-small</span></div>
+        <div class="icon-container"><i class="icon icon-trailer-end-4"></i> <span class="i-name">icon-trailer-end-4</span></div>
+      </div>
+      <div class="row">
+        <h1>Next version</h1>
+        <ul>
+          <li>Propose next icons in the <a target="_blank" href="https://github.com/bchoubert/transportion-font">github repo</a></li>
+        </ul>
+      </div>
+      <div class="demo">
+        <h1>Demo</h1>
+        <div>
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x2"></i>
+        </div>
+        <div>
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x4-trailer"></i><!--
+          --><i class="icon icon-trailer-mid"></i><!--
+          --><i class="icon icon-trailer-end-4"></i>
+        </div>
+        <div>
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x2-trailer"></i><!--
+          --><i class="icon icon-trailer-mid"></i><!--
+          --><i class="icon icon-trailer-end-2-small"></i>
+        </div>
+        <div>
+          <i class="icon icon-truck-front-big"></i><!--
+          --><i class="icon icon-truck-end-6x4-trailer"></i><!--
+          --><i class="icon icon-trailer-mid"></i><!--
+          --><i class="icon icon-trailer-end-4"></i><!--
+          --><i class="icon icon-trailer-start"></i><!--
+          --><i class="icon icon-trailer-end-2"></i>
+        </div>
+      </div>
+    </div>
+    <div class="container footer">
+      Generated with Webpack & WebFonts-Loader
+    </div>
+  </body>
+</html>

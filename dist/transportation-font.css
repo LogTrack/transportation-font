@@ -1,0 +1,57 @@
+@font-face {
+	font-family: "transportation-font";
+	src: url("transportation-font.eot?#iefix") format("embedded-opentype"),
+url("transportation-font.woff") format("woff"),
+url("transportation-font.woff2") format("woff2"),
+url("transportation-font.ttf") format("truetype"),
+url("transportation-font.svg#transportation-font") format("svg");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: transportation-font !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-trailer-end-2-small:before {
+	content: "\f101";
+}
+.icon-trailer-end-2:before {
+	content: "\f102";
+}
+.icon-trailer-end-4:before {
+	content: "\f103";
+}
+.icon-trailer-mid-big:before {
+	content: "\f104";
+}
+.icon-trailer-mid:before {
+	content: "\f105";
+}
+.icon-trailer-start:before {
+	content: "\f106";
+}
+.icon-truck-end-6x2-trailer:before {
+	content: "\f107";
+}
+.icon-truck-end-6x2:before {
+	content: "\f108";
+}
+.icon-truck-end-6x4-trailer:before {
+	content: "\f109";
+}
+.icon-truck-end-6x4:before {
+	content: "\f10a";
+}
+.icon-truck-front-big:before {
+	content: "\f10b";
+}
+.icon-truck-front:before {
+	content: "\f10c";
+}
+
