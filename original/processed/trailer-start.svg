@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="242"
-   height="310.001"
-   viewBox="0 0 242 310.001"
+   width="171"
+   height="310"
+   viewBox="0 0 171 310"
    version="1.1"
    id="svg16"
    sodipodi:docname="trailer-start.svg"
@@ -40,19 +40,19 @@
      inkscape:window-height="1018"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="0.76128785"
-     inkscape:cx="121"
-     inkscape:cy="155.0005"
+     inkscape:zoom="0.76129032"
+     inkscape:cx="85.5"
+     inkscape:cy="155"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g14" />
+     inkscape:current-layer="svg16" />
   <g
      transform="translate(-1289 -385)"
      id="g14">
     <path
-       d="M122,270.5A42.5,42.5,0,1,1,164.5,313,42.5,42.5,0,0,1,122,270.5ZM94,221H-7v-6H94V3H235V221Z"
-       transform="translate(1296 382)"
+       d="M101,218H0v-6H101V0h70V218Z"
+       transform="translate(1289 385)"
        id="path12" />
   </g>
 </svg>

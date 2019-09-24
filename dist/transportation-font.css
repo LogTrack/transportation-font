@@ -18,88 +18,157 @@ url("transportation-font.svg#transportation-font") format("svg");
 	vertical-align: top;
 }
 
-.icon-trailer-end-2-small:before {
+.icon-flatbed-end-2-small:before {
 	content: "\f101";
 }
-.icon-trailer-end-2:before {
+.icon-flatbed-end-2:before {
 	content: "\f102";
 }
-.icon-trailer-end-4:before {
+.icon-flatbed-end-4:before {
 	content: "\f103";
 }
-.icon-trailer-end-6:before {
+.icon-flatbed-end-6:before {
 	content: "\f104";
 }
-.icon-trailer-mid-big:before {
+.icon-flatbed-mid-2:before {
 	content: "\f105";
 }
-.icon-trailer-mid:before {
+.icon-flatbed-mid-4:before {
 	content: "\f106";
 }
-.icon-trailer-start-big:before {
+.icon-flatbed-mid-big:before {
 	content: "\f107";
 }
-.icon-trailer-start:before {
+.icon-flatbed-mid-small:before {
 	content: "\f108";
 }
-.icon-truck-end-6x2-tandem:before {
+.icon-flatbed-mid:before {
 	content: "\f109";
 }
-.icon-truck-end-6x2-trailer:before {
+.icon-flatbed-start-2:before {
 	content: "\f10a";
 }
-.icon-truck-end-6x2:before {
+.icon-flatbed-start-big:before {
 	content: "\f10b";
 }
-.icon-truck-end-6x4-tandem:before {
+.icon-flatbed-start:before {
 	content: "\f10c";
 }
-.icon-truck-end-6x4-trailer:before {
+.icon-trailer-end-2-small:before {
 	content: "\f10d";
 }
-.icon-truck-end-6x4:before {
+.icon-trailer-end-2:before {
 	content: "\f10e";
 }
-.icon-truck-front-big:before {
+.icon-trailer-end-4:before {
 	content: "\f10f";
 }
-.icon-truck-front:before {
+.icon-trailer-end-6:before {
 	content: "\f110";
 }
-.icon-van-end-l1h1:before {
+.icon-trailer-mid-2:before {
 	content: "\f111";
 }
-.icon-van-end-l1h2:before {
+.icon-trailer-mid-4:before {
 	content: "\f112";
 }
-.icon-van-end-l1h3:before {
+.icon-trailer-mid-big:before {
 	content: "\f113";
 }
-.icon-van-end-l2h1:before {
+.icon-trailer-mid-small:before {
 	content: "\f114";
 }
-.icon-van-end-l2h2:before {
+.icon-trailer-mid:before {
 	content: "\f115";
 }
-.icon-van-end-l2h3:before {
+.icon-trailer-start-2:before {
 	content: "\f116";
 }
-.icon-van-end-l3h1:before {
+.icon-trailer-start-big:before {
 	content: "\f117";
 }
-.icon-van-end-l3h2:before {
+.icon-trailer-start:before {
 	content: "\f118";
 }
-.icon-van-end-l3h3:before {
+.icon-truck-end-4x2-flatbed:before {
 	content: "\f119";
 }
-.icon-van-front-h1:before {
+.icon-truck-end-4x2-tandem-flatbed:before {
 	content: "\f11a";
 }
-.icon-van-front-h2:before {
+.icon-truck-end-4x2-tandem-trailer:before {
 	content: "\f11b";
 }
-.icon-van-front-h3:before {
+.icon-truck-end-4x2-trailer:before {
 	content: "\f11c";
+}
+.icon-truck-end-4x2:before {
+	content: "\f11d";
+}
+.icon-truck-end-6x2-flatbed:before {
+	content: "\f11e";
+}
+.icon-truck-end-6x2-tandem-flatbed:before {
+	content: "\f11f";
+}
+.icon-truck-end-6x2-tandem-trailer:before {
+	content: "\f120";
+}
+.icon-truck-end-6x2-trailer:before {
+	content: "\f121";
+}
+.icon-truck-end-6x2:before {
+	content: "\f122";
+}
+.icon-truck-front-big:before {
+	content: "\f123";
+}
+.icon-truck-front:before {
+	content: "\f124";
+}
+.icon-van-end-l1-body:before {
+	content: "\f125";
+}
+.icon-van-end-l1h1:before {
+	content: "\f126";
+}
+.icon-van-end-l1h2:before {
+	content: "\f127";
+}
+.icon-van-end-l1h3:before {
+	content: "\f128";
+}
+.icon-van-end-l2-body:before {
+	content: "\f129";
+}
+.icon-van-end-l2h1:before {
+	content: "\f12a";
+}
+.icon-van-end-l2h2:before {
+	content: "\f12b";
+}
+.icon-van-end-l2h3:before {
+	content: "\f12c";
+}
+.icon-van-end-l3-body:before {
+	content: "\f12d";
+}
+.icon-van-end-l3h1:before {
+	content: "\f12e";
+}
+.icon-van-end-l3h2:before {
+	content: "\f12f";
+}
+.icon-van-end-l3h3:before {
+	content: "\f130";
+}
+.icon-van-front-h1:before {
+	content: "\f131";
+}
+.icon-van-front-h2:before {
+	content: "\f132";
+}
+.icon-van-front-h3:before {
+	content: "\f133";
 }
 
