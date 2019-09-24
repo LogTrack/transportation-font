@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="283"
-   height="310.001"
-   viewBox="0 0 283 310.001"
+   width="428.435"
+   height="350"
+   viewBox="0 0 428.435 350"
    version="1.1"
-   id="svg12"
-   sodipodi:docname="truck-end-6x4-trailer.svg"
+   id="svg8"
+   sodipodi:docname="van-end-l2h3.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata18">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs16" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,23 +36,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1918"
-     inkscape:window-height="1018"
-     id="namedview14"
+     inkscape:window-width="742"
+     inkscape:window-height="480"
+     id="namedview10"
      showgrid="false"
-     inkscape:zoom="0.76128785"
-     inkscape:cx="141.5"
-     inkscape:cy="155.0005"
-     inkscape:window-x="1273"
+     inkscape:zoom="0.66287769"
+     inkscape:cx="214.2175"
+     inkscape:cy="175"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg12" />
+     inkscape:current-layer="svg8" />
   <g
-     transform="translate(-724 -385)"
-     id="g10">
+     transform="translate(-2386 -2353)"
+     id="g6">
     <path
-       d="M172,270.5A42.5,42.5,0,1,1,214.5,313,42.5,42.5,0,0,1,172,270.5Zm-104,0A42.5,42.5,0,1,1,110.5,313,42.5,42.5,0,0,1,68,270.5ZM60,277H-7V231H90.372A49.961,49.961,0,0,0,60,277h0Zm216,0H264a49.959,49.959,0,0,0-30.372-46H276v46Zm-112,0h-4a49.959,49.959,0,0,0-30.372-46h64.745A49.961,49.961,0,0,0,164,277Zm-15-50v-6h5v6ZM27,221V3H276V221Z"
-       transform="translate(731 382)"
-       id="path8" />
+       d="M243.906,307a45,45,0,1,1,45,45A45,45,0,0,1,243.906,307Zm-8.968,14H-7V3l401.775.52,6.192,2.939,3.016,4.9,9.924,287.817,7.434,2.916V317.5l-7.434,3.5H343.661c-.062-.959-.127-1.929-.184-2.783-.294-4.4-.572-8.555-.572-11.717,0-29.5-24.224-53.5-54-53.5s-54,24-54,53.5c0,.728,0,1.569-.005,2.591v.012c-.01,3.083-.023,7.3.04,11.9h0Z"
+       transform="translate(2393.094 2351)"
+       id="path4" />
   </g>
 </svg>

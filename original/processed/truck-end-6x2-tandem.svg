@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="283"
+   width="406"
    height="310.001"
-   viewBox="0 0 283 310.001"
+   viewBox="0 0 406 310.001"
    version="1.1"
    id="svg12"
-   sodipodi:docname="truck-end-6x4-trailer.svg"
+   sodipodi:docname="truck-end-6x2-tandem.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata18">
@@ -40,18 +40,18 @@
      inkscape:window-height="1018"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="0.76128785"
-     inkscape:cx="141.5"
-     inkscape:cy="155.0005"
+     inkscape:zoom="0.49462642"
+     inkscape:cx="305.64521"
+     inkscape:cy="152.34704"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg12" />
   <g
-     transform="translate(-724 -385)"
+     transform="translate(-601 -385)"
      id="g10">
     <path
-       d="M172,270.5A42.5,42.5,0,1,1,214.5,313,42.5,42.5,0,0,1,172,270.5Zm-104,0A42.5,42.5,0,1,1,110.5,313,42.5,42.5,0,0,1,68,270.5ZM60,277H-7V231H90.372A49.961,49.961,0,0,0,60,277h0Zm216,0H264a49.959,49.959,0,0,0-30.372-46H276v46Zm-112,0h-4a49.959,49.959,0,0,0-30.372-46h64.745A49.961,49.961,0,0,0,164,277Zm-15-50v-6h5v6ZM27,221V3H276V221Z"
+       d="M140,270.5A42.5,42.5,0,0,1,182.5,228H-126V3H276V228H182.5A42.5,42.5,0,1,1,140,270.5ZM276,277H231.991c.006-.319.01-.655.01-1a49.679,49.679,0,0,0-28.181-45H276v46h0Zm-406,0V231H160.18A49.678,49.678,0,0,0,132,276c0,.33,0,.667.01,1h0Z"
        transform="translate(731 382)"
        id="path8" />
   </g>

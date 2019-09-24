@@ -8,14 +8,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="283"
-   height="310.001"
-   viewBox="0 0 283 310.001"
+   height="310"
+   viewBox="0 0 283 310"
    version="1.1"
-   id="svg12"
-   sodipodi:docname="truck-end-6x4-trailer.svg"
+   id="svg14"
+   sodipodi:docname="trailer-end-6.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata18">
+     id="metadata20">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs16" />
+     id="defs18" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,21 +38,21 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1918"
      inkscape:window-height="1018"
-     id="namedview14"
+     id="namedview16"
      showgrid="false"
-     inkscape:zoom="0.76128785"
+     inkscape:zoom="0.76129032"
      inkscape:cx="141.5"
-     inkscape:cy="155.0005"
+     inkscape:cy="155"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg12" />
+     inkscape:current-layer="svg14" />
   <g
-     transform="translate(-724 -385)"
-     id="g10">
+     transform="translate(-1400 -385)"
+     id="g12">
     <path
-       d="M172,270.5A42.5,42.5,0,1,1,214.5,313,42.5,42.5,0,0,1,172,270.5Zm-104,0A42.5,42.5,0,1,1,110.5,313,42.5,42.5,0,0,1,68,270.5ZM60,277H-7V231H90.372A49.961,49.961,0,0,0,60,277h0Zm216,0H264a49.959,49.959,0,0,0-30.372-46H276v46Zm-112,0h-4a49.959,49.959,0,0,0-30.372-46h64.745A49.961,49.961,0,0,0,164,277Zm-15-50v-6h5v6ZM27,221V3H276V221Z"
-       transform="translate(731 382)"
-       id="path8" />
+       d="M188,267.5A42.5,42.5,0,1,1,230.5,310,42.5,42.5,0,0,1,188,267.5Zm-89,0A42.5,42.5,0,1,1,141.5,310,42.5,42.5,0,0,1,99,267.5Zm-89,0A42.5,42.5,0,1,1,52.5,310,42.5,42.5,0,0,1,10,267.5ZM0,218V0H283V218Z"
+       transform="translate(1400 385)"
+       id="path10" />
   </g>
 </svg>

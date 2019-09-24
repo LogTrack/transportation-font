@@ -40,9 +40,9 @@
      inkscape:window-height="1018"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="0.76128785"
-     inkscape:cx="121"
-     inkscape:cy="155.0005"
+     inkscape:zoom="1.5225757"
+     inkscape:cx="173.67194"
+     inkscape:cy="122.11611"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -51,8 +51,8 @@
      transform="translate(-724 -31)"
      id="g10">
     <path
-       d="M135,267.5A42.5,42.5,0,1,1,177.5,310,42.5,42.5,0,0,1,135,267.5ZM242,274H227a49.959,49.959,0,0,0-30.372-46H242v46ZM0,274V228H157.372A49.961,49.961,0,0,0,127,274Zm34-56V0H242V218Z"
-       transform="translate(724 31)"
+       d="M128,270.5A42.5,42.5,0,1,1,170.5,313,42.5,42.5,0,0,1,128,270.5ZM235,277H220a49.959,49.959,0,0,0-30.372-46H235v46ZM-7,277V231H150.372A49.961,49.961,0,0,0,120,277Zm139-50v-6h5v6ZM27,221V3H235V221Z"
+       transform="translate(731 28)"
        id="path8" />
   </g>
 </svg>

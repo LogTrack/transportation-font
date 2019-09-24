@@ -64,6 +64,34 @@
         grid-column-end: 6;
         text-align: center;
       }
+      .demo {
+        display: grid;
+        grid-template-columns: 50% 50%;
+      }
+      .demo h1 {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        text-align: center;
+      }
+      .demo-container {
+        text-align: center;
+        background-color: white;
+        transition: color .5s, background-color .5s;
+        border-radius: 4px;
+      }
+      .demo-container:hover {
+        background-color: black;
+        color: white;
+      }
+      .demo-container i {
+        margin-right: -1px;
+        font-size: 50px;
+        transition: margin .5s;
+        padding: .5em 0;
+      }
+      .demo-container:hover i {
+        margin: 0 10px;
+      }
       details {
         grid-column-start: 1;
         grid-column-end: 6;
@@ -105,10 +133,6 @@
       .i-name {
         text-align: center;
       }
-      .demo .icon {
-        margin-right: -1px;
-        font-size: 50px;
-      }
 
       @media screen and (max-width: 800px) {
         .row {
@@ -130,9 +154,13 @@
 
         <div class="icon-container"><i class="icon icon-truck-end-6x2"></i> <span class="i-name">icon-truck-end-6x2</span></div>
         <div class="icon-container"><i class="icon icon-truck-end-6x4"></i> <span class="i-name">icon-truck-end-6x4</span></div>
+
+        <div class="icon-container"><i class="icon icon-truck-end-6x2-tandem"></i> <span class="i-name">icon-truck-end-6x2-tandem</span></div>
+        <div class="icon-container"><i class="icon icon-truck-end-6x4-tandem"></i> <span class="i-name">icon-truck-end-6x4-tandem</span></div>
       </div>
       <div class="row">
         <h1>Trailer</h1>
+        <div class="icon-container"><i class="icon icon-trailer-start-big"></i> <span class="i-name">icon-trailer-start-big</span></div>
         <div class="icon-container"><i class="icon icon-trailer-start"></i> <span class="i-name">icon-trailer-start</span></div>
 
         <div class="icon-container"><i class="icon icon-truck-end-6x2-trailer"></i> <span class="i-name">icon-truck-end-6x2-trailer</span></div>
@@ -144,39 +172,88 @@
         <div class="icon-container"><i class="icon icon-trailer-end-2"></i> <span class="i-name">icon-trailer-end-2</span></div>
         <div class="icon-container"><i class="icon icon-trailer-end-2-small"></i> <span class="i-name">icon-trailer-end-2-small</span></div>
         <div class="icon-container"><i class="icon icon-trailer-end-4"></i> <span class="i-name">icon-trailer-end-4</span></div>
+        <div class="icon-container"><i class="icon icon-trailer-end-6"></i> <span class="i-name">icon-trailer-end-6</span></div>
+      </div>
+      <div class="row">
+        <h1>Van</h1>
+        <div class="icon-container"><i class="icon icon-van-front-h1"></i> <span class="i-name">icon-van-front-h1</span></div>
+        <div class="icon-container"><i class="icon icon-van-front-h2"4></i> <span class="i-name">icon-van-front-h2</span></div>
+        <div class="icon-container"><i class="icon icon-van-front-h3"></i> <span class="i-name">icon-van-front-h3</span></div>
+
+        <div class="icon-container"><i class="icon icon-van-end-l1h1"></i> <span class="i-name">icon-van-end-l1h1</span></div>
+        <div class="icon-container"><i class="icon icon-van-end-l2h1"></i> <span class="i-name">icon-van-end-l2h1</span></div>
+        <div class="icon-container"><i class="icon icon-van-end-l3h1"></i> <span class="i-name">icon-van-end-l3h1</span></div>
+
+        <div class="icon-container"><i class="icon icon-van-end-l1h2"></i> <span class="i-name">icon-van-end-l1h2</span></div>
+        <div class="icon-container"><i class="icon icon-van-end-l2h2"></i> <span class="i-name">icon-van-end-l2h2</span></div>
+        <div class="icon-container"><i class="icon icon-van-end-l3h2"></i> <span class="i-name">icon-van-end-l3h2</span></div>
+
+        <div class="icon-container"><i class="icon icon-van-end-l1h3"></i> <span class="i-name">icon-van-end-l1h3</span></div>
+        <div class="icon-container"><i class="icon icon-van-end-l2h3"></i> <span class="i-name">icon-van-end-l2h3</span></div>
+        <div class="icon-container"><i class="icon icon-van-end-l3h3"></i> <span class="i-name">icon-van-end-l3h3</span></div>
+      </div>
+      <div class="demo">
+        <h1>Demo</h1>
+        <div class="demo-container">
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x2"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x4-trailer"></i><!--
+          --><i class="icon icon-trailer-mid"></i><!--
+          --><i class="icon icon-trailer-end-4"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x2-trailer"></i><!--
+          --><i class="icon icon-trailer-mid"></i><!--
+          --><i class="icon icon-trailer-end-2-small"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-truck-front-big"></i><!--
+          --><i class="icon icon-truck-end-6x4-trailer"></i><!--
+          --><i class="icon icon-trailer-mid"></i><!--
+          --><i class="icon icon-trailer-end-4"></i><!--
+          --><i class="icon icon-trailer-start"></i><!--
+          --><i class="icon icon-trailer-end-2"></i><!--
+          --><i class="icon icon-trailer-start"></i><!--
+          --><i class="icon icon-trailer-end-2"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-trailer-start-big"></i><!--
+          --><i class="icon icon-trailer-mid-big"></i><!--
+          --><i class="icon icon-trailer-end-6"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x4-tandem"></i><!--
+          --><i class="icon icon-trailer-start"></i><!--
+          --><i class="icon icon-trailer-mid"></i><!--
+          --><i class="icon icon-trailer-end-4"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-truck-front"></i><!--
+          --><i class="icon icon-truck-end-6x2-tandem"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-van-front-h1"></i><!--
+          --><i class="icon icon-van-end-l1h1"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-van-front-h1"></i><!--
+          --><i class="icon icon-van-end-l3h1"></i>
+        </div>
+        <div class="demo-container">
+          <i class="icon icon-van-front-h3"></i><!--
+          --><i class="icon icon-van-end-l3h3"></i>
+        </div>
       </div>
       <div class="row">
         <h1>Next version</h1>
         <ul>
           <li>Propose next icons in the <a target="_blank" href="https://github.com/bchoubert/transportation-font">github repo</a></li>
         </ul>
-      </div>
-      <div class="demo">
-        <h1>Demo</h1>
-        <div>
-          <i class="icon icon-truck-front"></i><!--
-          --><i class="icon icon-truck-end-6x2"></i>
-        </div>
-        <div>
-          <i class="icon icon-truck-front"></i><!--
-          --><i class="icon icon-truck-end-6x4-trailer"></i><!--
-          --><i class="icon icon-trailer-mid"></i><!--
-          --><i class="icon icon-trailer-end-4"></i>
-        </div>
-        <div>
-          <i class="icon icon-truck-front"></i><!--
-          --><i class="icon icon-truck-end-6x2-trailer"></i><!--
-          --><i class="icon icon-trailer-mid"></i><!--
-          --><i class="icon icon-trailer-end-2-small"></i>
-        </div>
-        <div>
-          <i class="icon icon-truck-front-big"></i><!--
-          --><i class="icon icon-truck-end-6x4-trailer"></i><!--
-          --><i class="icon icon-trailer-mid"></i><!--
-          --><i class="icon icon-trailer-end-4"></i><!--
-          --><i class="icon icon-trailer-start"></i><!--
-          --><i class="icon icon-trailer-end-2"></i>
-        </div>
       </div>
     </div>
     <div class="container footer">
