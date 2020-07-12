@@ -18,268 +18,328 @@ url("transportation-font.svg#transportation-font") format("svg");
 	vertical-align: top;
 }
 
-.icon-flatbed-end-2-small:before {
+.icon-container-end-2-small:before {
 	content: "\f101";
 }
-.icon-flatbed-end-2:before {
+.icon-container-end-2:before {
 	content: "\f102";
 }
-.icon-flatbed-end-4:before {
+.icon-container-end-4:before {
 	content: "\f103";
 }
-.icon-flatbed-end-6:before {
+.icon-container-end-6:before {
 	content: "\f104";
 }
-.icon-flatbed-mid-2:before {
+.icon-container-mid-2:before {
 	content: "\f105";
 }
-.icon-flatbed-mid-4:before {
+.icon-container-mid-4:before {
 	content: "\f106";
 }
-.icon-flatbed-mid-big:before {
+.icon-container-mid-big:before {
 	content: "\f107";
 }
-.icon-flatbed-mid-small:before {
+.icon-container-mid-small:before {
 	content: "\f108";
 }
-.icon-flatbed-mid:before {
+.icon-container-mid:before {
 	content: "\f109";
 }
-.icon-flatbed-start-2:before {
+.icon-container-start-2:before {
 	content: "\f10a";
 }
-.icon-flatbed-start-big:before {
+.icon-container-start-big:before {
 	content: "\f10b";
 }
-.icon-flatbed-start:before {
+.icon-container-start:before {
 	content: "\f10c";
 }
-.icon-frame-end-2:before {
+.icon-flatbed-end-2-small:before {
 	content: "\f10d";
 }
-.icon-frame-end-4:before {
+.icon-flatbed-end-2:before {
 	content: "\f10e";
 }
-.icon-frame-end-6:before {
+.icon-flatbed-end-4:before {
 	content: "\f10f";
 }
-.icon-frame-link:before {
+.icon-flatbed-end-6:before {
 	content: "\f110";
 }
-.icon-frame-mid-big:before {
+.icon-flatbed-mid-2:before {
 	content: "\f111";
 }
-.icon-frame-mid-lo:before {
+.icon-flatbed-mid-4:before {
 	content: "\f112";
 }
-.icon-frame-mid-ol:before {
+.icon-flatbed-mid-big:before {
 	content: "\f113";
 }
-.icon-frame-mid-olo:before {
+.icon-flatbed-mid-small:before {
 	content: "\f114";
 }
-.icon-frame-mid-small:before {
+.icon-flatbed-mid:before {
 	content: "\f115";
 }
-.icon-frame-mid:before {
+.icon-flatbed-start-2:before {
 	content: "\f116";
 }
-.icon-glass-start-2:before {
+.icon-flatbed-start-big:before {
 	content: "\f117";
 }
-.icon-glass-start-big:before {
+.icon-flatbed-start:before {
 	content: "\f118";
 }
-.icon-glass-start:before {
+.icon-frame-end-2:before {
 	content: "\f119";
 }
-.icon-lowbed-link:before {
+.icon-frame-end-4:before {
 	content: "\f11a";
 }
-.icon-lowbed-mid-big:before {
+.icon-frame-end-6:before {
 	content: "\f11b";
 }
-.icon-lowbed-mid-small:before {
+.icon-frame-link:before {
 	content: "\f11c";
 }
-.icon-lowbed-mid:before {
+.icon-frame-mid-big:before {
 	content: "\f11d";
 }
-.icon-tank-start-2:before {
+.icon-frame-mid-lo:before {
 	content: "\f11e";
 }
-.icon-tank-start-big:before {
+.icon-frame-mid-ol:before {
 	content: "\f11f";
 }
-.icon-tank-start:before {
+.icon-frame-mid-olo:before {
 	content: "\f120";
 }
-.icon-tank-u-end:before {
+.icon-frame-mid-small:before {
 	content: "\f121";
 }
-.icon-tank-u-start:before {
+.icon-frame-mid:before {
 	content: "\f122";
 }
-.icon-tipper-start-2:before {
+.icon-glass-start-2:before {
 	content: "\f123";
 }
-.icon-tipper-start-big:before {
+.icon-glass-start-big:before {
 	content: "\f124";
 }
-.icon-tipper-start:before {
+.icon-glass-start:before {
 	content: "\f125";
 }
-.icon-tipper-u-end:before {
+.icon-lowbed-link:before {
 	content: "\f126";
 }
-.icon-tipper-u-start:before {
+.icon-lowbed-mid-big:before {
 	content: "\f127";
 }
-.icon-trailer-end-2-small:before {
+.icon-lowbed-mid-small:before {
 	content: "\f128";
 }
-.icon-trailer-end-2:before {
+.icon-lowbed-mid:before {
 	content: "\f129";
 }
-.icon-trailer-end-4:before {
+.icon-tank-start-2:before {
 	content: "\f12a";
 }
-.icon-trailer-end-6:before {
+.icon-tank-start-big:before {
 	content: "\f12b";
 }
-.icon-trailer-mid-2:before {
+.icon-tank-start:before {
 	content: "\f12c";
 }
-.icon-trailer-mid-4:before {
+.icon-tank-u-end:before {
 	content: "\f12d";
 }
-.icon-trailer-mid-big:before {
+.icon-tank-u-start:before {
 	content: "\f12e";
 }
-.icon-trailer-mid-small:before {
+.icon-tipper-start-2:before {
 	content: "\f12f";
 }
-.icon-trailer-mid:before {
+.icon-tipper-start-big:before {
 	content: "\f130";
 }
-.icon-trailer-start-2:before {
+.icon-tipper-start:before {
 	content: "\f131";
 }
-.icon-trailer-start-big:before {
+.icon-tipper-u-end:before {
 	content: "\f132";
 }
-.icon-trailer-start:before {
+.icon-tipper-u-start:before {
 	content: "\f133";
 }
-.icon-truck-end-4x2-flatbed:before {
+.icon-trailer-end-2-small:before {
 	content: "\f134";
 }
-.icon-truck-end-4x2-glass:before {
+.icon-trailer-end-2:before {
 	content: "\f135";
 }
-.icon-truck-end-4x2-tandem-flatbed:before {
+.icon-trailer-end-4:before {
 	content: "\f136";
 }
-.icon-truck-end-4x2-tandem-tank:before {
+.icon-trailer-end-6:before {
 	content: "\f137";
 }
-.icon-truck-end-4x2-tandem-tipper:before {
+.icon-trailer-mid-2:before {
 	content: "\f138";
 }
-.icon-truck-end-4x2-tandem-trailer:before {
+.icon-trailer-mid-4:before {
 	content: "\f139";
 }
-.icon-truck-end-4x2-tank:before {
+.icon-trailer-mid-big:before {
 	content: "\f13a";
 }
-.icon-truck-end-4x2-tipper:before {
+.icon-trailer-mid-small:before {
 	content: "\f13b";
 }
-.icon-truck-end-4x2-trailer:before {
+.icon-trailer-mid:before {
 	content: "\f13c";
 }
-.icon-truck-end-4x2:before {
+.icon-trailer-start-2:before {
 	content: "\f13d";
 }
-.icon-truck-end-6x2-flatbed:before {
+.icon-trailer-start-big:before {
 	content: "\f13e";
 }
-.icon-truck-end-6x2-glass:before {
+.icon-trailer-start:before {
 	content: "\f13f";
 }
-.icon-truck-end-6x2-tandem-flatbed:before {
+.icon-truck-end-4x2-container:before {
 	content: "\f140";
 }
-.icon-truck-end-6x2-tandem-tank:before {
+.icon-truck-end-4x2-flatbed:before {
 	content: "\f141";
 }
-.icon-truck-end-6x2-tandem-tipper:before {
+.icon-truck-end-4x2-glass:before {
 	content: "\f142";
 }
-.icon-truck-end-6x2-tandem-trailer:before {
+.icon-truck-end-4x2-tandem-container:before {
 	content: "\f143";
 }
-.icon-truck-end-6x2-tank:before {
+.icon-truck-end-4x2-tandem-flatbed:before {
 	content: "\f144";
 }
-.icon-truck-end-6x2-tipper:before {
+.icon-truck-end-4x2-tandem-tank:before {
 	content: "\f145";
 }
-.icon-truck-end-6x2-trailer:before {
+.icon-truck-end-4x2-tandem-tipper:before {
 	content: "\f146";
 }
-.icon-truck-end-6x2:before {
+.icon-truck-end-4x2-tandem-trailer:before {
 	content: "\f147";
 }
-.icon-truck-front-big:before {
+.icon-truck-end-4x2-tank:before {
 	content: "\f148";
 }
-.icon-truck-front:before {
+.icon-truck-end-4x2-tipper:before {
 	content: "\f149";
 }
-.icon-van-end-l1-body:before {
+.icon-truck-end-4x2-trailer:before {
 	content: "\f14a";
 }
-.icon-van-end-l1h1:before {
+.icon-truck-end-4x2:before {
 	content: "\f14b";
 }
-.icon-van-end-l1h2:before {
+.icon-truck-end-6x2-container:before {
 	content: "\f14c";
 }
-.icon-van-end-l1h3:before {
+.icon-truck-end-6x2-flatbed:before {
 	content: "\f14d";
 }
-.icon-van-end-l2-body:before {
+.icon-truck-end-6x2-glass:before {
 	content: "\f14e";
 }
-.icon-van-end-l2h1:before {
+.icon-truck-end-6x2-tandem-container:before {
 	content: "\f14f";
 }
-.icon-van-end-l2h2:before {
+.icon-truck-end-6x2-tandem-flatbed:before {
 	content: "\f150";
 }
-.icon-van-end-l2h3:before {
+.icon-truck-end-6x2-tandem-tank:before {
 	content: "\f151";
 }
-.icon-van-end-l3-body:before {
+.icon-truck-end-6x2-tandem-tipper:before {
 	content: "\f152";
 }
-.icon-van-end-l3h1:before {
+.icon-truck-end-6x2-tandem-trailer:before {
 	content: "\f153";
 }
-.icon-van-end-l3h2:before {
+.icon-truck-end-6x2-tank:before {
 	content: "\f154";
 }
-.icon-van-end-l3h3:before {
+.icon-truck-end-6x2-tipper:before {
 	content: "\f155";
 }
-.icon-van-front-h1:before {
+.icon-truck-end-6x2-trailer:before {
 	content: "\f156";
 }
-.icon-van-front-h2:before {
+.icon-truck-end-6x2:before {
 	content: "\f157";
 }
-.icon-van-front-h3:before {
+.icon-truck-front-big:before {
 	content: "\f158";
+}
+.icon-truck-front:before {
+	content: "\f159";
+}
+.icon-van-end-l1-frame:before {
+	content: "\f15a";
+}
+.icon-van-end-l1h1:before {
+	content: "\f15b";
+}
+.icon-van-end-l1h2:before {
+	content: "\f15c";
+}
+.icon-van-end-l1h3:before {
+	content: "\f15d";
+}
+.icon-van-end-l2-frame:before {
+	content: "\f15e";
+}
+.icon-van-end-l2h1:before {
+	content: "\f15f";
+}
+.icon-van-end-l2h2:before {
+	content: "\f160";
+}
+.icon-van-end-l2h3:before {
+	content: "\f161";
+}
+.icon-van-end-l3-frame:before {
+	content: "\f162";
+}
+.icon-van-end-l3h1:before {
+	content: "\f163";
+}
+.icon-van-end-l3h2:before {
+	content: "\f164";
+}
+.icon-van-end-l3h3:before {
+	content: "\f165";
+}
+.icon-van-end-l4-frame:before {
+	content: "\f166";
+}
+.icon-van-end-l4h1:before {
+	content: "\f167";
+}
+.icon-van-end-l4h2:before {
+	content: "\f168";
+}
+.icon-van-end-l4h3:before {
+	content: "\f169";
+}
+.icon-van-front-h1:before {
+	content: "\f16a";
+}
+.icon-van-front-h2:before {
+	content: "\f16b";
+}
+.icon-van-front-h3:before {
+	content: "\f16c";
 }
 
