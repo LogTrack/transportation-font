@@ -120,262 +120,379 @@ url("transportation-font.svg#transportation-font") format("svg");
 .icon-frame-mid:before {
 	content: "\f122";
 }
-.icon-glass-start-2:before {
+.icon-frigo-start-2-cold:before {
 	content: "\f123";
 }
-.icon-glass-start-big:before {
+.icon-frigo-start-2:before {
 	content: "\f124";
 }
-.icon-glass-start:before {
+.icon-frigo-start-big-cold:before {
 	content: "\f125";
 }
-.icon-lowbed-link:before {
+.icon-frigo-start-big:before {
 	content: "\f126";
 }
-.icon-lowbed-mid-big:before {
+.icon-frigo-start:before {
 	content: "\f127";
 }
-.icon-lowbed-mid-small:before {
+.icon-glass-start-2:before {
 	content: "\f128";
 }
-.icon-lowbed-mid:before {
+.icon-glass-start-big:before {
 	content: "\f129";
 }
-.icon-tank-start-2:before {
+.icon-glass-start:before {
 	content: "\f12a";
 }
-.icon-tank-start-big:before {
+.icon-lowbed-link:before {
 	content: "\f12b";
 }
-.icon-tank-start:before {
+.icon-lowbed-mid-big:before {
 	content: "\f12c";
 }
-.icon-tank-u-end:before {
+.icon-lowbed-mid-small:before {
 	content: "\f12d";
 }
-.icon-tank-u-start:before {
+.icon-lowbed-mid:before {
 	content: "\f12e";
 }
-.icon-tipper-start-2:before {
+.icon-tank-start-2:before {
 	content: "\f12f";
 }
-.icon-tipper-start-big:before {
+.icon-tank-start-big:before {
 	content: "\f130";
 }
-.icon-tipper-start:before {
+.icon-tank-start:before {
 	content: "\f131";
 }
-.icon-tipper-u-end:before {
+.icon-tank-u-end:before {
 	content: "\f132";
 }
-.icon-tipper-u-start:before {
+.icon-tank-u-start:before {
 	content: "\f133";
 }
-.icon-trailer-end-2-small:before {
+.icon-tipper-start-2:before {
 	content: "\f134";
 }
-.icon-trailer-end-2:before {
+.icon-tipper-start-big:before {
 	content: "\f135";
 }
-.icon-trailer-end-4:before {
+.icon-tipper-start:before {
 	content: "\f136";
 }
-.icon-trailer-end-6:before {
+.icon-tipper-u-end:before {
 	content: "\f137";
 }
-.icon-trailer-mid-2:before {
+.icon-tipper-u-start:before {
 	content: "\f138";
 }
-.icon-trailer-mid-4:before {
+.icon-trailer-end-2-small:before {
 	content: "\f139";
 }
-.icon-trailer-mid-big:before {
+.icon-trailer-end-2:before {
 	content: "\f13a";
 }
-.icon-trailer-mid-small:before {
+.icon-trailer-end-4:before {
 	content: "\f13b";
 }
-.icon-trailer-mid:before {
+.icon-trailer-end-6:before {
 	content: "\f13c";
 }
-.icon-trailer-start-2:before {
+.icon-trailer-mid-2:before {
 	content: "\f13d";
 }
-.icon-trailer-start-big:before {
+.icon-trailer-mid-4:before {
 	content: "\f13e";
 }
-.icon-trailer-start:before {
+.icon-trailer-mid-big-cold:before {
 	content: "\f13f";
 }
-.icon-truck-end-4x2-container:before {
+.icon-trailer-mid-big:before {
 	content: "\f140";
 }
-.icon-truck-end-4x2-flatbed:before {
+.icon-trailer-mid-cold:before {
 	content: "\f141";
 }
-.icon-truck-end-4x2-glass:before {
+.icon-trailer-mid-small:before {
 	content: "\f142";
 }
-.icon-truck-end-4x2-tandem-container:before {
+.icon-trailer-mid:before {
 	content: "\f143";
 }
-.icon-truck-end-4x2-tandem-flatbed:before {
+.icon-trailer-start-2:before {
 	content: "\f144";
 }
-.icon-truck-end-4x2-tandem-tank:before {
+.icon-trailer-start-big:before {
 	content: "\f145";
 }
-.icon-truck-end-4x2-tandem-tipper:before {
+.icon-trailer-start:before {
 	content: "\f146";
 }
-.icon-truck-end-4x2-tandem-trailer:before {
+.icon-truck-end-4x2-container:before {
 	content: "\f147";
 }
-.icon-truck-end-4x2-tank:before {
+.icon-truck-end-4x2-flatbed:before {
 	content: "\f148";
 }
-.icon-truck-end-4x2-tipper:before {
+.icon-truck-end-4x2-frigo-cold:before {
 	content: "\f149";
 }
-.icon-truck-end-4x2-trailer:before {
+.icon-truck-end-4x2-frigo:before {
 	content: "\f14a";
 }
-.icon-truck-end-4x2:before {
+.icon-truck-end-4x2-glass:before {
 	content: "\f14b";
 }
-.icon-truck-end-6x2-container:before {
+.icon-truck-end-4x2-tandem-container:before {
 	content: "\f14c";
 }
-.icon-truck-end-6x2-flatbed:before {
+.icon-truck-end-4x2-tandem-flatbed:before {
 	content: "\f14d";
 }
-.icon-truck-end-6x2-glass:before {
+.icon-truck-end-4x2-tandem-tank:before {
 	content: "\f14e";
 }
-.icon-truck-end-6x2-tandem-container:before {
+.icon-truck-end-4x2-tandem-tipper:before {
 	content: "\f14f";
 }
-.icon-truck-end-6x2-tandem-flatbed:before {
+.icon-truck-end-4x2-tandem-trailer-cold:before {
 	content: "\f150";
 }
-.icon-truck-end-6x2-tandem-tank:before {
+.icon-truck-end-4x2-tandem-trailer:before {
 	content: "\f151";
 }
-.icon-truck-end-6x2-tandem-tipper:before {
+.icon-truck-end-4x2-tank:before {
 	content: "\f152";
 }
-.icon-truck-end-6x2-tandem-trailer:before {
+.icon-truck-end-4x2-tipper:before {
 	content: "\f153";
 }
-.icon-truck-end-6x2-tank:before {
+.icon-truck-end-4x2-trailer:before {
 	content: "\f154";
 }
-.icon-truck-end-6x2-tipper:before {
+.icon-truck-end-4x2:before {
 	content: "\f155";
 }
-.icon-truck-end-6x2-trailer:before {
+.icon-truck-end-6x2-container:before {
 	content: "\f156";
 }
-.icon-truck-end-6x2:before {
+.icon-truck-end-6x2-flatbed:before {
 	content: "\f157";
 }
-.icon-truck-end-8x4-container:before {
+.icon-truck-end-6x2-frigo-cold:before {
 	content: "\f158";
 }
-.icon-truck-end-8x4-flatbed:before {
+.icon-truck-end-6x2-frigo:before {
 	content: "\f159";
 }
-.icon-truck-end-8x4-glass:before {
+.icon-truck-end-6x2-glass:before {
 	content: "\f15a";
 }
-.icon-truck-end-8x4-tandem-container:before {
+.icon-truck-end-6x2-tandem-container:before {
 	content: "\f15b";
 }
-.icon-truck-end-8x4-tandem-flatbed:before {
+.icon-truck-end-6x2-tandem-flatbed:before {
 	content: "\f15c";
 }
-.icon-truck-end-8x4-tandem-tank:before {
+.icon-truck-end-6x2-tandem-tank:before {
 	content: "\f15d";
 }
-.icon-truck-end-8x4-tandem-tipper:before {
+.icon-truck-end-6x2-tandem-tipper:before {
 	content: "\f15e";
 }
-.icon-truck-end-8x4-tandem-trailer:before {
+.icon-truck-end-6x2-tandem-trailer-cold:before {
 	content: "\f15f";
 }
-.icon-truck-end-8x4-tank:before {
+.icon-truck-end-6x2-tandem-trailer:before {
 	content: "\f160";
 }
-.icon-truck-end-8x4-tipper:before {
+.icon-truck-end-6x2-tank:before {
 	content: "\f161";
 }
-.icon-truck-end-8x4-trailer:before {
+.icon-truck-end-6x2-tipper:before {
 	content: "\f162";
 }
-.icon-truck-end-8x4:before {
+.icon-truck-end-6x2-trailer:before {
 	content: "\f163";
 }
-.icon-truck-front-big:before {
+.icon-truck-end-6x2:before {
 	content: "\f164";
 }
-.icon-truck-front:before {
+.icon-truck-end-8x4-container:before {
 	content: "\f165";
 }
-.icon-van-end-l1-frame:before {
+.icon-truck-end-8x4-flatbed:before {
 	content: "\f166";
 }
-.icon-van-end-l1h1:before {
+.icon-truck-end-8x4-frigo-cold:before {
 	content: "\f167";
 }
-.icon-van-end-l1h2:before {
+.icon-truck-end-8x4-frigo:before {
 	content: "\f168";
 }
-.icon-van-end-l1h3:before {
+.icon-truck-end-8x4-glass:before {
 	content: "\f169";
 }
-.icon-van-end-l2-frame:before {
+.icon-truck-end-8x4-tandem-container:before {
 	content: "\f16a";
 }
-.icon-van-end-l2h1:before {
+.icon-truck-end-8x4-tandem-flatbed:before {
 	content: "\f16b";
 }
-.icon-van-end-l2h2:before {
+.icon-truck-end-8x4-tandem-tank:before {
 	content: "\f16c";
 }
-.icon-van-end-l2h3:before {
+.icon-truck-end-8x4-tandem-tipper:before {
 	content: "\f16d";
 }
-.icon-van-end-l3-frame:before {
+.icon-truck-end-8x4-tandem-trailer-cold:before {
 	content: "\f16e";
 }
-.icon-van-end-l3h1:before {
+.icon-truck-end-8x4-tandem-trailer:before {
 	content: "\f16f";
 }
-.icon-van-end-l3h2:before {
+.icon-truck-end-8x4-tank:before {
 	content: "\f170";
 }
-.icon-van-end-l3h3:before {
+.icon-truck-end-8x4-tipper:before {
 	content: "\f171";
 }
-.icon-van-end-l4-frame:before {
+.icon-truck-end-8x4-trailer:before {
 	content: "\f172";
 }
-.icon-van-end-l4h1:before {
+.icon-truck-end-8x4:before {
 	content: "\f173";
 }
-.icon-van-end-l4h2:before {
+.icon-truck-front-big:before {
 	content: "\f174";
 }
-.icon-van-end-l4h3:before {
+.icon-truck-front-small-frigo:before {
 	content: "\f175";
 }
-.icon-van-front-h1:before {
+.icon-truck-front-small:before {
 	content: "\f176";
 }
-.icon-van-front-h2:before {
+.icon-truck-front:before {
 	content: "\f177";
 }
-.icon-van-front-h3:before {
+.icon-van-end-l1-box-cold:before {
 	content: "\f178";
+}
+.icon-van-end-l1-box:before {
+	content: "\f179";
+}
+.icon-van-end-l1-frame:before {
+	content: "\f17a";
+}
+.icon-van-end-l1-tipper:before {
+	content: "\f17b";
+}
+.icon-van-end-l1h1:before {
+	content: "\f17c";
+}
+.icon-van-end-l1h2:before {
+	content: "\f17d";
+}
+.icon-van-end-l1h3:before {
+	content: "\f17e";
+}
+.icon-van-end-l2-box-cold:before {
+	content: "\f17f";
+}
+.icon-van-end-l2-box:before {
+	content: "\f180";
+}
+.icon-van-end-l2-frame:before {
+	content: "\f181";
+}
+.icon-van-end-l2-tipper:before {
+	content: "\f182";
+}
+.icon-van-end-l2h1:before {
+	content: "\f183";
+}
+.icon-van-end-l2h2:before {
+	content: "\f184";
+}
+.icon-van-end-l2h3:before {
+	content: "\f185";
+}
+.icon-van-end-l3-box-cold:before {
+	content: "\f186";
+}
+.icon-van-end-l3-box:before {
+	content: "\f187";
+}
+.icon-van-end-l3-frame:before {
+	content: "\f188";
+}
+.icon-van-end-l3-tipper:before {
+	content: "\f189";
+}
+.icon-van-end-l3h1:before {
+	content: "\f18a";
+}
+.icon-van-end-l3h2:before {
+	content: "\f18b";
+}
+.icon-van-end-l3h3:before {
+	content: "\f18c";
+}
+.icon-van-end-l4-box-cold:before {
+	content: "\f18d";
+}
+.icon-van-end-l4-box:before {
+	content: "\f18e";
+}
+.icon-van-end-l4-frame:before {
+	content: "\f18f";
+}
+.icon-van-end-l4-tipper:before {
+	content: "\f190";
+}
+.icon-van-end-l4h1:before {
+	content: "\f191";
+}
+.icon-van-end-l4h2:before {
+	content: "\f192";
+}
+.icon-van-end-l4h3:before {
+	content: "\f193";
+}
+.icon-van-front-h1-frigo:before {
+	content: "\f194";
+}
+.icon-van-front-h1:before {
+	content: "\f195";
+}
+.icon-van-front-h2-frigo:before {
+	content: "\f196";
+}
+.icon-van-front-h2:before {
+	content: "\f197";
+}
+.icon-van-front-h3-frigo:before {
+	content: "\f198";
+}
+.icon-van-front-h3:before {
+	content: "\f199";
+}
+.icon-van-mid-h1-frigo:before {
+	content: "\f19a";
+}
+.icon-van-mid-h1:before {
+	content: "\f19b";
+}
+.icon-van-mid-h2-frigo:before {
+	content: "\f19c";
+}
+.icon-van-mid-h2:before {
+	content: "\f19d";
+}
+.icon-van-mid-h3-frigo:before {
+	content: "\f19e";
+}
+.icon-van-mid-h3:before {
+	content: "\f19f";
 }
 

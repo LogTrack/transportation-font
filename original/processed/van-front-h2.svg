@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="306.176"
-   height="350"
-   viewBox="0 0 306.176 350"
-   version="1.1"
    id="svg8"
-   sodipodi:docname="van-front-h2.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   version="1.1"
+   viewBox="0 0 306.176 390"
+   height="390"
+   width="306.17599">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,37 +18,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="742"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="0.67428571"
-     inkscape:cx="153.088"
-     inkscape:cy="175"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
   <g
-     transform="translate(-238 -2324)"
-     id="g6">
+     id="g6"
+     transform="translate(-238,-2284)">
     <path
-       d="M63,274.2a45,45,0,1,1,45,45A45,45,0,0,1,63,274.2Zm-8.892,14-9.46,0L-7,279.5V183.852l5.128-5.644L8.92,163.41l30.244-14.842,37.588-12.149H93.337L182.083,46.81l19.178-17.358,17.648-11.388L235.16,10.2l19.649-5.445L299.176,3,299,288.2H163c-.131-2.321-.282-4.587-.428-6.779v-.005c-.293-4.4-.571-8.553-.571-11.715,0-29.5-24.224-53.5-54-53.5s-54,24-54,53.5c0,.753,0,1.646-.005,2.59-.013,3.893-.032,9.777.114,15.909v0Z"
-       transform="translate(245 2354.801)"
-       id="path4" />
+       id="path4"
+       transform="translate(245,2354.801)"
+       d="m 63,274.2 a 45,45 0 1 1 45,45 45,45 0 0 1 -45,-45 z m -8.892,14 h -9.46 L -7,279.5 V 183.852 L -1.872,178.208 8.92,163.41 39.164,148.568 76.752,136.419 H 93.337 L 182.083,46.81 201.261,29.452 218.909,18.064 235.16,10.2 254.809,4.755 299.176,3 299,288.2 H 163 c -0.131,-2.321 -0.282,-4.587 -0.428,-6.779 v -0.005 c -0.293,-4.4 -0.571,-8.553 -0.571,-11.715 0,-29.5 -24.224,-53.5 -54,-53.5 -29.776,0 -54,24 -54,53.5 0,0.753 0,1.646 -0.005,2.59 -0.013,3.893 -0.032,9.777 0.114,15.909 v 0 z" />
   </g>
 </svg>

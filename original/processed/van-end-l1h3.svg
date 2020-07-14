@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="358.436"
-   height="350"
-   viewBox="0 0 358.436 350"
-   version="1.1"
    id="svg8"
-   sodipodi:docname="van-end-l1h3.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   version="1.1"
+   viewBox="0 0 358.436 390"
+   height="390"
+   width="358.436">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,37 +18,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="742"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="0.67428571"
-     inkscape:cx="179.218"
-     inkscape:cy="175"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
   <g
-     transform="translate(-2549 -987)"
-     id="g6">
+     id="g6"
+     transform="translate(-2549,-947)">
     <path
-       d="M173.906,307a45,45,0,1,1,45,45A45,45,0,0,1,173.906,307Zm-8.967,14H-7V3l331.776.52,6.192,2.939,3.016,4.9,9.924,287.817,7.434,2.916V317.5l-7.434,3.5H273.661c-.062-.95-.124-1.884-.184-2.786-.293-4.4-.571-8.553-.571-11.714,0-29.5-24.224-53.5-54-53.5s-54,24-54,53.5c0,.751,0,1.6-.005,2.591-.011,3.082-.024,7.3.04,11.909h0Z"
-       transform="translate(2556.094 985)"
-       id="path4" />
+       id="path4"
+       transform="translate(2556.094,985)"
+       d="m 173.906,307 a 45,45 0 1 1 45,45 45,45 0 0 1 -45,-45 z m -8.967,14 H -7 V 3 l 331.776,0.52 6.192,2.939 3.016,4.9 9.924,287.817 7.434,2.916 V 317.5 l -7.434,3.5 h -70.247 c -0.062,-0.95 -0.124,-1.884 -0.184,-2.786 -0.293,-4.4 -0.571,-8.553 -0.571,-11.714 0,-29.5 -24.224,-53.5 -54,-53.5 -29.776,0 -54,24 -54,53.5 0,0.751 0,1.6 -0.005,2.591 -0.011,3.082 -0.024,7.3 0.04,11.909 v 0 z" />
   </g>
 </svg>
